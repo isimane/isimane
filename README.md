@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @isimane 
-- 👀 I’m interested in designing
+- 👀 I’m interested in web design
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
